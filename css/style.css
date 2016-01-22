@@ -314,3 +314,9 @@ h1
 	width: 33%;
 	display: inline-block;
 }
+
+#bouton
+{
+	width: 100px;
+	background-color: #00ab83;
+}
